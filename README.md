@@ -1,4 +1,9 @@
 # ZELAR - STARTUP
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![Packagist](https://img.shields.io/badge/HTML---%20-blue.svg)
+![Packagist](https://img.shields.io/badge/CSS----ff69b4.svg)
+![Packagist](https://img.shields.io/badge/Javascript----yellow.svg)
+![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)
 
 Projeto front end para startup, que estava criando junto com alguns colegas.
 O projeto baseiava-se em criar uma rede social de prestadores de serviços usando como inspiração
